@@ -65,10 +65,4 @@ runs:
              -X POST \
              -d "$PAYLOAD" \
              "$WEBHOOK"
-Powered by Gitea
-Version:
-1.24.5
-Page:
-46ms
-Template:
-3ms
+
